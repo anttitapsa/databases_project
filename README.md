@@ -7,8 +7,6 @@ ja esimerkkikyselyitä SQL:llä.
 Lisäksi tiedostoista taulukot ja data.sql löytyy koodi, jolla luodaan tietokanta ja esimerkki data sen sisälle. Sekä kyselyt.sql tiedostosta löytyvät
 esimerkki projektissa esitetyt kyselyt.
 
-Projektin tekijä:
-
+###Projektin tekijä
 Antti Huttunen
-
 Oula Siljamo
