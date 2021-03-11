@@ -8,5 +8,6 @@ Lisäksi tiedostoista taulukot ja data.sql löytyy koodi, jolla luodaan tietokan
 esimerkki projektissa esitetyt kyselyt.
 
 ###Projektin tekijä
+
 Antti Huttunen
 Oula Siljamo
